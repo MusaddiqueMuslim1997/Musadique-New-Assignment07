@@ -1,0 +1,48 @@
+p{
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;  
+}
+
+.box{
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+
+}
+
+a{
+    text-decoration: none;
+}
+a{
+    color:black
+}
+a:visited{
+    color:slategrey
+}
+a:hover{
+    color: green;
+}
+td:hover{
+    background-color: #f1f1f1;
+}
+h3:hover{
+    background-color: goldenrod;
+}
+.yellow{
+    background-color: antiquewhite;
+}
+h3:hover{
+    background-color: antiquewhite;
+}
+.black{
+    background-color: #313131;
+}
+.grey{
+    background-color:rgb(73, 73, 73);
+}
+.yellow:hover{
+    background-color: none;
+}
+span{
+    font-weight: bold;
+}
+p{
+    font-family: Helvetica;
+}
